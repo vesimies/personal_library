@@ -1,0 +1,11 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# Logs or error dumps
+*.log
