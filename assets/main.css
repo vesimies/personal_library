@@ -1,0 +1,37 @@
+/* === Journal Custom Styles === */
+
+body {
+  background-color: #fefdf9; /* soft cream */
+  background-image: url('https://www.transparenttextures.com/patterns/paper-fibers.png');
+  background-repeat: repeat;
+  font-family: 'Inter', sans-serif;
+  color: #2a2a2a;
+  max-width: 700px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+  line-height: 1.7;
+}
+
+/* Headings - soft olive green */
+h1, h2, h3 {
+  color: #5e7253; /* olive green */
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+/* Links - peach, olive hover */
+a {
+  color: #de8f6e; /* peach */
+  text-decoration: none;
+}
+a:hover {
+  color: #5e7253; /* olive */
+  text-decoration: underline;
+}
+
+/* Optional - remove borders from site header/footer if needed */
+.site-header, .site-footer {
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+}
