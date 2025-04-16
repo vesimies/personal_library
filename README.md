@@ -1,6 +1,6 @@
 # Learning Journal & Source Library 📓
 
-This is a personal project where I document my daily learning journey.
+This is a personal project where I document my learning journey.
 
 ## Why I’m Doing This
 
