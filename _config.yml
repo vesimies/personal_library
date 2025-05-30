@@ -1,12 +1,9 @@
-title: My Journal
-description: A personal journal powered by Jekyll and GitHub Pages.
+title: My Resource Library
+baseurl: ""
+url: "https://vesimies.github.io"
 theme: minima
 
-minima:
-  skin: null
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-
+collections:
+  resources:
+    output: true
+    permalink: /resources/:name/
